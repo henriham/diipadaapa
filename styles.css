@@ -1,0 +1,25 @@
+body{
+    font-family: "Times New Roman";
+    fallback: serif;
+    background-color: pink;
+
+}
+h1{
+   text-align: center; 
+}
+h2{
+    font-family: Georgia;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    padding: 5mm;
+}
+img{
+    border:solid;
+    border-width: 10px;
+    border-color: blue;
+    width: 300;
+    height: 300;
+    
+}
